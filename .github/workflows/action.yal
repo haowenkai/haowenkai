@@ -1,0 +1,11 @@
+name: 'My Custom Action'
+description: 'A description of what this action does.'
+inputs:
+  my_input:
+    description: 'Description of input parameter'
+    required: true
+    default: 'default-value'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
