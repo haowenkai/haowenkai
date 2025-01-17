@@ -6,7 +6,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=python,django,flask&theme=light" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=haowenkai&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haowenkai)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haowenkai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
