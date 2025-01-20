@@ -81,7 +81,7 @@ HTML                     1 repo              ████░░░░░░░�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haowenkai)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haowenkai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haowenkai&show_icons=true&theme=light&hide_title=false&hide_border=false&include_all_commits=true&disable_animations=true&line_height=27&layout=compact&langs_count=8&hide_rank=false&title_size=18&text_size=14&icon_size=25&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haowenkai&theme=light&hide_title=false&hide_border=false&include_all_commits=true&disable_animations=true&line_height=27&layout=compact&langs_count=10&hide_rank=false&title_size=18&text_size=14&icon_size=25&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haowenkai&theme=light&hide_title=false&hide_border=false&include_all_commits=true&disable_animations=true&line_height=26&layout=compact&langs_count=10&hide_rank=false&title_size=18&text_size=14&icon_size=25&border_radius=10)
 
 
 
