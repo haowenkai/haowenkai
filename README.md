@@ -9,9 +9,9 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-255-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-256-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,17 +50,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 45 mins        ████████████████████████░   96.94 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Python                   3 hrs 7 mins        █████████████████████████   98.07 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-spider_project           1 hr 48 mins        █████████████████████████   100.00 % 
+spider_project           3 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -74,7 +74,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 20/01/2025 18:42:41 UTC
+ Last Updated on 21/01/2025 18:45:00 UTC
 <!--END_SECTION:waka-->
 
 <!---
