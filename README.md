@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,20 +50,16 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   34 mins             ████████████████████░░░░░   80.01 % 
-JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-spider_project           43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +73,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 02/02/2025 18:42:37 UTC
+ Last Updated on 03/02/2025 18:42:49 UTC
 <!--END_SECTION:waka-->
 
 <!---
